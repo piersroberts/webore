@@ -1,0 +1,2 @@
+- npm install
+- webpack --progress --colors --watch
